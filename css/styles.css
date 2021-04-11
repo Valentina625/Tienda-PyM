@@ -1,0 +1,449 @@
+body{
+	font-family: 'Titillium Web', sans-serif;
+	
+}
+
+h1 { font-size: 100px; font-weight: 800; line-height: 100px;}
+h2 { font-size: 100px; margin-bottom: 30px;}
+h5 { margin-bottom: 0pxS;}
+
+p {
+	font-size: 18px;
+	color: #999999;
+	line-height: 1.8;
+	margin-bottom: 0;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+a i {
+	font-size: 22px; color: #ffffff;
+}
+
+section {
+	padding: 120px 0;
+}
+
+.bg-light-grey { background-color: #f5f5f5; }
+
+.topmargin-xs {margin-top: 15px;}
+.topmargin-sm {margin-top: 30px;}
+.topmargin-lg {margin-top: 60px;}
+
+
+.btn {
+	font-size: 14px;
+	padding: 15px 26px;
+	min-width: 160px;
+	border-radius: 2px;
+	display: inline-block;
+}
+
+.btn-light{
+	background-color: #ffffff;
+	color: #1a1a1a;
+	border: 2px solid #ffffff;
+}
+
+.btn i { font-size: 14px; margin-left: 5px; }
+
+.text-dark { color: #1a1a1a; }
+
+
+.navbar{
+	background-color: #ffffff;
+	box-shadow: 0 2px 4px 0 rgba(0, 0, .05);
+	min-height: 100px;
+}
+
+
+.nav-link{ 
+	color: #1a1a1a; 
+	min-width: 25px; 
+	font-size: 20px;
+}
+
+.nav-link:hover{ color:#e2e61e; }
+
+.logo-brand {
+	min-width: 160px;
+	max-width: 180px;
+}
+
+.navbar-toggler { font-size: 40px;}
+.navbar-toggler:focus { outline: none;} 
+
+
+
+#hero {
+	background-image: url("../Imagen/Encaje.jpg");
+	background-size: cover;
+	padding-top: 90px;
+	min-height: 700px;
+	color: #ffffff;
+}
+
+#hero p {
+	color: #ffffff;
+}
+.content-center{
+	max-width: 800px;
+	margin: 0 auto 60px auto;
+	text-align: center;
+}
+
+.serivio-container {
+	position: relative;
+	overflow: hidden;
+	margin: 10px 0;
+	border-radius: 2px;
+}
+
+.servicio-container img {
+	-moz-transition: all 0.8s;
+	-webkit-transition: all 0.8s;
+	transition: all 0.8s;
+}
+
+.servicio-container:hover img {
+	-moz-transform: scale(1.2);
+	-webkit-transform: scale(1.2);
+	transform: scale(1.2);
+}
+
+.servicio-details {
+	position: absolute;
+	bottom: 25px;
+	left: 25px;
+	z-index: 9000;
+}
+
+.servicio-details h2 {
+	margin-bottom: -5px;
+	
+}
+
+.servicio-details a h2, .servicio-details a p {
+	color: #ffffff;
+}
+
+.member-container {
+	position: relative;
+	margin: 10px 0;
+}
+
+.member-details {
+	position: relative;
+	color: #ffffff ;
+	bottom: 0px;
+	left: 20px;
+
+}
+
+.member-details.span {
+	font-size: 14px;
+
+}
+
+.member-details i{
+	padding: 0 5px;
+}
+
+/--!-- carrousel--/
+body{
+	font-family: 'Titillium Web', sans-serif;
+	
+}
+
+h1 { font-size: 100px; font-weight: 800; line-height: 100px;}
+h2 { font-size: 100px; margin-bottom: 30px;}
+h5 { margin-bottom: 0pxS;}
+
+p {
+	font-size: 18px;
+	color: #999999;
+	line-height: 1.8;
+	margin-bottom: 0;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+a i {
+	font-size: 22px; color: #ffffff;
+}
+
+section {
+	padding: 120px 0;
+}
+
+.bg-light-grey { background-color: #f5f5f5; }
+
+.topmargin-xs {margin-top: 15px;}
+.topmargin-sm {margin-top: 30px;}
+.topmargin-lg {margin-top: 60px;}
+
+
+.btn {
+	font-size: 14px;
+	padding: 15px 26px;
+	min-width: 160px;
+	border-radius: 2px;
+	display: inline-block;
+}
+
+.btn-light{
+	background-color: #ffffff;
+	color: #1a1a1a;
+	border: 2px solid #ffffff;
+}
+
+.btn i { font-size: 14px; margin-left: 5px; }
+
+.text-dark { color: #1a1a1a; }
+
+
+.navbar{
+	background-color: #ffffff;
+	box-shadow: 0 2px 4px 0 rgba(0, 0, .05);
+	min-height: 100px;
+}
+
+
+.nav-link{ 
+	color: #1a1a1a; 
+	min-width: 25px; 
+	font-size: 20px;
+}
+
+.nav-link:hover{ color:#e2e61e; }
+
+.logo-brand {
+	min-width: 160px;
+	max-width: 180px;
+}
+
+.navbar-toggler { font-size: 40px;}
+.navbar-toggler:focus { outline: none;} 
+
+
+
+#hero {
+	background-image: url("../Imagen/Encaje.jpg");
+	background-size: cover;
+	padding-top: 90px;
+	min-height: 700px;
+	color: #ffffff;
+}
+
+#hero p {
+	color: #ffffff;
+}
+.content-center{
+	max-width: 800px;
+	margin: 0 auto 60px auto;
+	text-align: center;
+}
+
+.serivio-container {
+	position: relative;
+	overflow: hidden;
+	margin: 10px 0;
+	border-radius: 2px;
+}
+
+.servicio-container img {
+	-moz-transition: all 0.8s;
+	-webkit-transition: all 0.8s;
+	transition: all 0.8s;
+}
+
+.servicio-container:hover img {
+	-moz-transform: scale(1.2);
+	-webkit-transform: scale(1.2);
+	transform: scale(1.2);
+}
+
+.servicio-details {
+	position: absolute;
+	bottom: 25px;
+	left: 25px;
+	z-index: 9000;
+}
+
+.servicio-details h2 {
+	margin-bottom: -5px;
+	
+}
+
+.servicio-details a h2, .servicio-details a p {
+	color: #ffffff;
+}
+
+.member-container {
+	position: relative;
+	margin: 10px 0;
+}
+
+.member-details {
+	position: relative;
+	color: #ffffff ;
+	bottom: 0px;
+	left: 20px;
+
+}
+
+.member-details.span {
+	font-size: 14px;
+
+}
+
+.member-details i{
+	padding: 0 5px;
+}
+.carrusel{
+	/*para modificar que no use el 100% de la página*/
+width: 80%;
+margin-right: auto;
+margin-left: auto
+;}
+
+.home .carousel-item{
+	min-height: 100vh;
+	background-position: center;
+	background-size: cover;
+	position: relative;
+	z-index: 1;
+}
+.home .carousel-item:before{
+	content: '';
+	position: absolute;
+	left:0;
+	top:0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0,0,0,0.5);
+	z-index: -1;
+}
+.home .carousel-item .container{
+	position: absolute;
+	left: 50%;
+	top:50%;
+	transform: translate(-50%,-50%);
+	text-align: center;
+}
+.home .carousel-item h2{
+	font-size: 80px;
+	color: #ffffff;
+	margin:0 0 10px;
+	opacity: 0;
+}
+.home .carousel-item p{
+	font-size: 30px;
+	margin:0;
+	color: #eeeeee;
+	opacity:0;
+}
+.home .carousel-item.active h2{
+	animation: fadeInLeft 0.5s ease forwards;
+}
+.home .carousel-item.active p{
+	animation: fadeInRight 0.5s ease forwards;
+}
+
+@keyframes fadeInLeft{
+	0%{
+		opacity: 0;
+		transform: translateX(-30px);
+	}
+	100%{
+		opacity: 1;
+		transform: translateX(0px);
+	}
+}
+@keyframes fadeInRight{
+	0%{
+		opacity: 0;
+		transform: translateX(30px);
+	}
+	100%{
+		opacity: 1;
+		transform: translateX(0px);
+	}
+}
+
+.home .carousel-controls{
+	position: absolute;
+	left: 50%;
+	bottom: 40px;
+	z-index: 10;
+	transform: translateX(-50%);
+}
+
+.home .carousel-indicators{
+	position: relative;
+	margin:0;
+}
+
+.home .carousel-indicators li{
+	height: 70px;
+	width: 70px;
+	margin:0 5px;
+	border-radius: 50%;
+	background-position: center;
+	background-size: cover;
+	border:3px solid transparent;
+	transition: all 0.3s ease;
+}
+.home .carousel-indicators li.active{
+	border-color: #ffffff;
+	transform: scale(1.2);
+}
+
+.home .carousel-control-next, 
+.home .carousel-control-prev{
+	height: 60px;
+	width: 60px;
+	opacity: 1;
+	z-index: 3;
+	top: 50%;
+	transform: translateY(-50%);
+	border-radius: 50%;
+	transition: all 0.3s ease;
+}
+.home .carousel-control-next:hover, 
+.home .carousel-control-prev:hover{
+   box-shadow: 0 0 10px #ffffff;
+}
+.home .carousel-control-next img, 
+.home .carousel-control-prev img{
+   width: 30px;
+}
+.home .carousel-control-next{
+	right: -90px;
+}
+.home .carousel-control-prev{
+	left: -90px;
+}
+
+
+
+@media (max-width: 575.98px) { 
+	h1 { font-size: 40px; line-height: normal;}
+}
+
+
+@media (min-width: 576px) and (max-width: 767.98px) { ... }
+
+
+@media (min-width: 768px) and (max-width: 991.98px) { ... }
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) { ... }
+
+
+@media (min-width: 1200px) { ... }
+
